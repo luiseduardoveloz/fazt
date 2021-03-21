@@ -9,7 +9,7 @@
   6. ANIMATIONS
 -------------------------------
   COLORS
-   color1 => #2c3e56;
+   color1 => #2c3e50;
    color2 => #34495e;
    color3 => #3498db;
    color4 => #fff;
@@ -75,7 +75,11 @@ body { text-align: center; font: 300 20px/1.7 'Roboto Condensed'; }
 .header { height: 450px; background: url(./images/dummy-header.jpg) no-repeat center top; background-size: cover;}
 .navbar { height 63px; background: #2c3e50;}
 .navbar a { color: #fff; padding: 0 20px; text-decoration: none; text-transform: uppercase; font: 20px 'Stint Ultra Condensed'}
+.title { margin-bottom: 40px; font: 60px 'Stint Ultra Condensed'; text-transform: uppercasa;}
+
 /* 3 PARTS OF THE WEB */
+.content { padding: 80px 0;}
+.who { background: #2c3e50; color: #fff; }
 /* 4 LIST */
 /* 5 FORM */
 /* 6 ANIMATIONS */
